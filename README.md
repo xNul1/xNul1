@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm <a href="#">Null</a></h1>
+<h1 align="center">Hey, I'm Null</h1>
 
 <p align="center">
   <i>"Doing my best to learn — one byte at a time."</i>
