@@ -1,17 +1,28 @@
-<br clear="both">
+<h1 align="center">Hey, I'm <a href="#">Null</a></h1>
 
-<img src="https://raw.githubusercontent.com/xNul1/xNul1/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <i>"Doing my best to learn — one byte at a time."</i>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xNul1&show_icons=true&theme=nord&hide_border=false" alt="GitHub Stats" />
+</p>
 
-###
+---
+### ⚪ About Me
 
-<br clear="both">
+- Currently doing my best to make it through college  
+- Trying to study and learn **cybersecurity** on THM
+- Passionate about **programming**, **cybersecurity**, and **electronics** — all the nerdy stuff 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=xNul1&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+---
 
-###
+### ⚪ Beyond the Screen
 
+- I enjoy playing **chess**  
+- I love **reading** and **listening music**
+- And I also love staying up late in **Discord calls** with friends  
+
+---
 <br clear="both">
 
 <div align="center">
