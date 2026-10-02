@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Null</h1>
 
 <p align="center">
-  <i>"Doing my best to learn — one byte at a time."</i>
+  <i>"Doing my best to learn — one bit at a time."</i>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xNul1&show_icons=true&theme=nord&hide_border=false" alt="GitHub Stats" />
@@ -11,7 +11,7 @@
 ### ⚪ About Me
 
 - Currently pursuing an **Associate Degree in Multi-platform Application Development**
-- Trying to study and learn **cybersecurity** on THM
+- Trying to study and learn **cybersecurity** on HTB Academy
 - Passionate about **programming**, **cybersecurity**, and **electronics** — all the nerdy stuff 
 
 ---
@@ -20,7 +20,6 @@
 
 - I enjoy playing **chess**  
 - I love **reading** and **listening music**
-- And I also love staying up late in **Discord calls** with friends  
 
 ---
 <br clear="both">
